@@ -1,4 +1,6 @@
 # album
+![WhatsApp Image 2023-08-22 at 15 10 03](https://github.com/SDTASLEEM/MusicPlayScreen/assets/142884577/3b05b924-2e00-446d-a05e-4022d7a94ba6)
+![WhatsApp Image 2023-08-22 at 15 11 15](https://github.com/SDTASLEEM/MusicPlayScreen/assets/142884577/426ccc61-9584-4965-947d-644ed0e8cd14)
 
 A new Flutter project.
 
